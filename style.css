@@ -1,0 +1,11 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+#answerField {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#btnRetry:hover{
+    color: darkslateblue;
+    text-decoration: none;
+}
